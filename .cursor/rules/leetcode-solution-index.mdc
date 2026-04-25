@@ -1,0 +1,29 @@
+---
+description: Update problem-solving solution index in readme before any git commit
+alwaysApply: true
+---
+
+# Problem solving — `readme` table (before you commit)
+
+When there are new or changed solution files under `Leetcode/algorithms/**` (new problem folder, new JS/Java file, etc.), **before staging or creating a commit**, update `Leetcode/algorithms/JS/readme.md` so the index stays complete.
+
+**Do not** put workflow or “remember to” instructions in that `readme.md`—only the title and the table. Process belongs in this rule.
+
+## Table: required columns
+
+| Column | What to add |
+| --- | --- |
+| **No.** | Problem number (numeric id from the site, e.g. the published problem #). |
+| **Title** | Problem name as the link text; URL: `https://leetcode.com/problems/<slug>/` when the problem is from that site (use the slug from the problem page). |
+| **Solution** | Link(s) to the file(s) in *this* repo, using **GitHub-style relative paths** from `Leetcode/algorithms/JS/readme.md`. Use the **language in the link text**: e.g. `[JS](./<problem-folder>/<file>.js)`, `[Java](../Java/<problem-folder>/<file>.java)`. If the same problem exists in more than one language, list each link and separate with ` · ` (space, middle dot, space). |
+| **Difficulty** | Set according to the user (e.g. Easy, Medium, Hard). |
+
+## Paths (from `JS/readme.md`)
+
+- **JS** solutions: `./<problem-folder>/<file>` (same `JS` tree as the readme).
+- **Java** solutions: `../Java/<problem-folder>/<file>` (sibling `Java` folder under `algorithms`).
+
+## Agent behavior
+
+- If the user (or you) is about to **commit** and new solutions exist that are **not** reflected in the table, **add the row(s) first**, then commit.
+- If a commit is only docs/tooling and touches nothing under `Leetcode/`, the index does not need a change for that.
