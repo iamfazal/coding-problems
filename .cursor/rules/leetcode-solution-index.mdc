@@ -7,7 +7,9 @@ alwaysApply: true
 
 When there are new or changed solution files under `Leetcode/algorithms/**` (new problem folder, new JS/Java file, etc.), **before staging or creating a commit**, update `Leetcode/algorithms/JS/readme.md` so the index stays complete.
 
-**Do not** put workflow or “remember to” instructions in that `readme.md`—only the title and the table. Process belongs in this rule.
+When there are new or changed files under `Leetcode/database/**` (new `.sql` file, new problem), **before staging or creating a commit**, update `Leetcode/database/readme.md` the same way (same table columns).
+
+**Do not** put workflow or “remember to” instructions in those `readme.md` files—only the title and the table. Process belongs in this rule.
 
 ## Table: required columns
 
@@ -15,13 +17,19 @@ When there are new or changed solution files under `Leetcode/algorithms/**` (new
 | --- | --- |
 | **No.** | Problem number (numeric id from the site, e.g. the published problem #). |
 | **Title** | Problem name as the link text; URL: `https://leetcode.com/problems/<slug>/` when the problem is from that site (use the slug from the problem page). |
-| **Solution** | Link(s) to the file(s) in *this* repo, using **GitHub-style relative paths** from `Leetcode/algorithms/JS/readme.md`. Use the **language in the link text**: e.g. `[JS](./<problem-folder>/<file>.js)`, `[Java](../Java/<problem-folder>/<file>.java)`. If the same problem exists in more than one language, list each link and separate with ` · ` (space, middle dot, space). |
+| **Solution** | Link(s) to the file(s) in *this* repo, using **GitHub-style relative paths** from the readme that covers that track. Use the **language in the link text**: e.g. `[JS](./<folder>/<file>.js)`, `[Java](../Java/<folder>/<file>.java)`, `[SQL](./<file>.sql)`. If the same problem exists in more than one language, list each link and separate with ` · ` (space, middle dot, space). |
 | **Difficulty** | Set according to the user (e.g. Easy, Medium, Hard). |
 
-## Paths (from `JS/readme.md`)
+## Paths
 
-- **JS** solutions: `./<problem-folder>/<file>` (same `JS` tree as the readme).
-- **Java** solutions: `../Java/<problem-folder>/<file>` (sibling `Java` folder under `algorithms`).
+**Algorithms** — from `Leetcode/algorithms/JS/readme.md`:
+
+- **JS:** `./<problem-folder>/<file>` (same `JS` tree as the readme).
+- **Java:** `../Java/<problem-folder>/<file>` (sibling `Java` folder under `algorithms`).
+
+**Database** — from `Leetcode/database/readme.md`:
+
+- **SQL:** `./<file>.sql` or `./<folder>/<file>.sql` next to that readme.
 
 ## Agent behavior
 

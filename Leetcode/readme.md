@@ -1,7 +1,6 @@
 # LeetCode track
 
-Problem index (same as below):
+Problem indexes live next to the code—edit those files so links stay valid.
 
-[algorithms/JS/readme.md](algorithms/JS/readme.md)
-
-_This file only points to the index next to the code. Edit that file so links stay valid._
+- [Algorithms – problem index](algorithms/JS/readme.md) (JS / Java)
+- [Database – problem index](database/readme.md) (SQL)

@@ -21,6 +21,7 @@ When AI took off, I found myself **coding a lot less by hand**—a lot of what I
 
 I use more than one platform over time. This table points to each **track’s readme** in this repo (the problem index). It will get more rows as I add work from other sites.
 
-| Platform | Readme (problem index) |
+| Track | Readme (problem index) |
 | --- | --- |
-| LeetCode | [`Leetcode/algorithms/JS/readme.md`](Leetcode/algorithms/JS/readme.md) |
+| LeetCode – algorithms | [`Leetcode/algorithms/JS/readme.md`](Leetcode/algorithms/JS/readme.md) |
+| LeetCode – database | [`Leetcode/database/readme.md`](Leetcode/database/readme.md) |
