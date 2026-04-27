@@ -23,5 +23,6 @@ I use more than one platform over time. This table points to each **track’s re
 
 | Track | Readme (problem index) |
 | --- | --- |
-| LeetCode – algorithms | [`Leetcode/algorithms/JS/readme.md`](Leetcode/algorithms/JS/readme.md) |
+| LeetCode – algorithms | [`Leetcode/algorithms/readme.md`](Leetcode/algorithms/readme.md) |
 | LeetCode – database | [`Leetcode/database/readme.md`](Leetcode/database/readme.md) |
+| HackerRank – algorithms | [`hackerrank/algorithms/readme.md`](hackerrank/algorithms/readme.md) |

@@ -5,9 +5,11 @@ alwaysApply: true
 
 # Problem solving — `readme` table (before you commit)
 
-When there are new or changed solution files under `Leetcode/algorithms/**` (new problem folder, new JS/Java file, etc.), **before staging or creating a commit**, update `Leetcode/algorithms/JS/readme.md` so the index stays complete.
+When there are new or changed solution files under `Leetcode/algorithms/**` (new problem folder, new JS/Java file, etc.), **before staging or creating a commit**, update `Leetcode/algorithms/readme.md` so the index stays complete.
 
 When there are new or changed files under `Leetcode/database/**` (new `.sql` file, new problem), **before staging or creating a commit**, update `Leetcode/database/readme.md` the same way (same table columns).
+
+When there are new or changed solution files under `hackerrank/algorithms/**` (new problem folder, new JS/Java file), **before staging or creating a commit**, update `hackerrank/algorithms/readme.md` the same way (same table columns).
 
 **Do not** put workflow or “remember to” instructions in those `readme.md` files—only the title and the table. Process belongs in this rule.
 
@@ -16,22 +18,27 @@ When there are new or changed files under `Leetcode/database/**` (new `.sql` fil
 | Column | What to add |
 | --- | --- |
 | **No.** | Problem number (numeric id from the site, e.g. the published problem #). |
-| **Title** | Problem name as the link text; URL: `https://leetcode.com/problems/<slug>/` when the problem is from that site (use the slug from the problem page). |
-| **Solution** | Link(s) to the file(s) in *this* repo, using **GitHub-style relative paths** from the readme that covers that track. Use the **language in the link text**: e.g. `[JS](./<folder>/<file>.js)`, `[Java](../Java/<folder>/<file>.java)`, `[SQL](./<file>.sql)`. If the same problem exists in more than one language, list each link and separate with ` · ` (space, middle dot, space). |
+| **Title** | Problem name as the link text. Use the problem URL from the site: e.g. `https://leetcode.com/problems/<slug>/`, `https://www.hackerrank.com/challenges/<slug>/problem`, or other platform links as they appear. |
+| **Solution** | Link(s) to the file(s) in *this* repo, using **GitHub-style relative paths** from the readme that covers that track. Use the **language in the link text**: e.g. `[JS](./JS/<folder>/<file>.js)`, `[Java](./Java/<folder>/<file>.java)` (LeetCode algorithms), `[SQL](./<file>.sql)`. If the same problem exists in more than one language, list each link and separate with ` · ` (space, middle dot, space). |
 | **Difficulty** | Set according to the user (e.g. Easy, Medium, Hard). |
 
 ## Paths
 
-**Algorithms** — from `Leetcode/algorithms/JS/readme.md`:
+**LeetCode algorithms** — from `Leetcode/algorithms/readme.md`:
 
-- **JS:** `./<problem-folder>/<file>` (same `JS` tree as the readme).
-- **Java:** `../Java/<problem-folder>/<file>` (sibling `Java` folder under `algorithms`).
+- **JS:** `./JS/<problem-folder>/<file>`.
+- **Java:** `./Java/<problem-folder>/<file>`.
 
 **Database** — from `Leetcode/database/readme.md`:
 
 - **SQL:** `./<file>.sql` or `./<folder>/<file>.sql` next to that readme.
 
+**HackerRank algorithms** — from `hackerrank/algorithms/readme.md`:
+
+- **JS:** `./js/<problem-folder>/<file>`.
+- **Java:** `./java/<problem-folder>/<file>`.
+
 ## Agent behavior
 
 - If the user (or you) is about to **commit** and new solutions exist that are **not** reflected in the table, **add the row(s) first**, then commit.
-- If a commit is only docs/tooling and touches nothing under `Leetcode/`, the index does not need a change for that.
+- If a commit is only docs/tooling and touches nothing under `Leetcode/**` or `hackerrank/**` for those tracks, the index does not need a change for that.
