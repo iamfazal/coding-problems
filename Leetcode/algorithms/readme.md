@@ -7,4 +7,5 @@
 | 3 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](./Java/median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) · [JS](./JS/median-of-two-sorted-arrays/median-of-two-sorted-arrays.js) | Hard |
 | 4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Java](./Java/longest%20palindromic%20substring/longest_palindromic_substring.java) · [JS](./JS/longest%20palindromic%20substring/longest_palindromic_substring.js) | Medium |
 | 5 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Java](./Java/zigzag%20conversion/ZigzagConversion.java) · [JS](./JS/zigzag%20conversion/ZigzagConversion.js) | Medium |
+| 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./Java/longest%20common%20prefix/longestCommonPrefix.java) · [JS](./JS/longest%20common%20prefix/longestCommonPrefix.js) | Easy |
 |  |  |  |  |
