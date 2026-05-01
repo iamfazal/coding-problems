@@ -9,4 +9,5 @@
 | 5 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Java](./Java/zigzag%20conversion/ZigzagConversion.java) · [JS](./JS/zigzag%20conversion/ZigzagConversion.js) | Medium |
 | 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./Java/longest%20common%20prefix/longestCommonPrefix.java) · [JS](./JS/longest%20common%20prefix/longestCommonPrefix.js) | Easy |
 | 7 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [JS](./JS/Fibonacci/fibonacci.js) | Easy |
+| 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JS](./JS/generateParentheses/generateParentheses.js) | Medium |
 |  |  |  |  |
