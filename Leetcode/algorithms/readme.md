@@ -10,4 +10,5 @@
 | 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./Java/longest%20common%20prefix/longestCommonPrefix.java) · [JS](./JS/longest%20common%20prefix/longestCommonPrefix.js) | Easy |
 | 7 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [JS](./JS/Fibonacci/fibonacci.js) | Easy |
 | 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JS](./JS/generateParentheses/generateParentheses.js) | Medium |
+| 9 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](./JS/ThreeSum/threeSum.js) | Medium |
 |  |  |  |  |
