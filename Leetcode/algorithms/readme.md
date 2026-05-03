@@ -11,4 +11,5 @@
 | 7 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [JS](./JS/Fibonacci/fibonacci.js) | Easy |
 | 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JS](./JS/generateParentheses/generateParentheses.js) | Medium |
 | 9 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](./JS/ThreeSum/threeSum.js) | Medium |
+| 10 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [JS](./JS/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.js) | Medium |
 |  |  |  |  |
