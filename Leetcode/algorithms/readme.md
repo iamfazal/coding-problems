@@ -14,4 +14,11 @@
 | 10 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [JS](./JS/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.js) | Medium |
 | 11 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [JS](./JS/binary%20search/binary-search.js) | Easy |
 | 12 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [JS](./JS/valid%20binary%20search%20tree/valid%20binary%20search%20tree.js) | Medium |
+| 13 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JS](./JS/count-and-say/count-and-say.js) | Medium |
+| 14 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [JS](./JS/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.js) | Easy |
+| 15 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [JS](./JS/group-anagrams/group-anagrams.js) | Medium |
+| 16 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JS](./JS/longest-valid-parentheses/longest-valid-parentheses.js) | Hard |
+| 17 | [Permutations](https://leetcode.com/problems/permutations/description/) | [JS](./JS/permutations/permutations.js) | Medium |
+| 18 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JS](./JS/regular-expression-matching/regular-expression-matching.js) | Hard |
+| 19 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JS](./JS/valid-parentheses/valid-parentheses.js) | Easy |
 |  |  |  |  |
