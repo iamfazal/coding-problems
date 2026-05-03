@@ -12,4 +12,5 @@
 | 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JS](./JS/generateParentheses/generateParentheses.js) | Medium |
 | 9 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](./JS/ThreeSum/threeSum.js) | Medium |
 | 10 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [JS](./JS/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.js) | Medium |
+| 11 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [JS](./JS/binary%20search/binary-search.js) | Easy |
 |  |  |  |  |
