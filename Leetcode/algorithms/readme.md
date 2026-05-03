@@ -13,4 +13,5 @@
 | 9 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](./JS/ThreeSum/threeSum.js) | Medium |
 | 10 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [JS](./JS/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.js) | Medium |
 | 11 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [JS](./JS/binary%20search/binary-search.js) | Easy |
+| 12 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [JS](./JS/valid%20binary%20search%20tree/valid%20binary%20search%20tree.js) | Medium |
 |  |  |  |  |
