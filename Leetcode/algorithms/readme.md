@@ -2,7 +2,7 @@
 
 | No. | Title | Solution | Difficulty |
 | ---: | --- | --- | --- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./Java/twoSum/twoSum.java) · [JS](./JS/twoSum/twoSum.js) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./Java/twoSum/twoSum.java) · [JS](./JS/2Sum/twoSum.js) | Easy |
 | 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](./Java/longest%20substring%20without%20duplicate%20characters/Longestsubstringwithoutduplicatecharacters.java) · [JS](./JS/longest%20substring%20without%20duplicate%20characters/Longestsubstringwithoutduplicatecharacters.js) | Medium |
 | 3 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](./Java/median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) · [JS](./JS/median-of-two-sorted-arrays/median-of-two-sorted-arrays.js) | Hard |
 | 4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Java](./Java/longest%20palindromic%20substring/longest_palindromic_substring.java) · [JS](./JS/longest%20palindromic%20substring/longest_palindromic_substring.js) | Medium |
@@ -10,7 +10,7 @@
 | 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./Java/longest%20common%20prefix/longestCommonPrefix.java) · [JS](./JS/longest%20common%20prefix/longestCommonPrefix.js) | Easy |
 | 7 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [JS](./JS/Fibonacci/fibonacci.js) | Easy |
 | 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JS](./JS/generateParentheses/generateParentheses.js) | Medium |
-| 9 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](./JS/ThreeSum/threeSum.js) | Medium |
+| 9 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](./JS/3Sum/threeSum.js) | Medium |
 | 10 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [JS](./JS/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.js) | Medium |
 | 11 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [JS](./JS/binary%20search/binary-search.js) | Easy |
 | 12 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [JS](./JS/valid%20binary%20search%20tree/valid%20binary%20search%20tree.js) | Medium |
@@ -22,4 +22,6 @@
 | 18 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JS](./JS/regular-expression-matching/regular-expression-matching.js) | Hard |
 | 19 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JS](./JS/valid-parentheses/valid-parentheses.js) | Easy |
 | 20 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [JS](./JS/simplify-path/simplify-path.js) | Medium |
+| 21 | [4Sum](https://leetcode.com/problems/4sum/description/) | [JS](./JS/4Sum/fourSum.js) | Medium |
+| 22 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [JS](./JS/swap-nodes-in-pairs/swap-nodes-in-pairs.js) | Medium |
 |  |  |  |  |
