@@ -21,4 +21,5 @@
 | 17 | [Permutations](https://leetcode.com/problems/permutations/description/) | [JS](./JS/permutations/permutations.js) | Medium |
 | 18 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JS](./JS/regular-expression-matching/regular-expression-matching.js) | Hard |
 | 19 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JS](./JS/valid-parentheses/valid-parentheses.js) | Easy |
+| 20 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [JS](./JS/simplify-path/simplify-path.js) | Medium |
 |  |  |  |  |
