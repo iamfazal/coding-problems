@@ -8,4 +8,6 @@
 | 4 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [JS](./js/Mars%20Exploration/marsExploration.js) | Easy |
 | 5 | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [JS](./js/HackerRank%20in%20a%20String/hackerrankInString.js) | Easy |
 | 6 | [Highest Value Palindrome](https://www.hackerrank.com/challenges/highest-value-palindrome/problem) | [JS](./js/Highest%20Value%20Palindrome/highestValuePalindrome.js) | Medium |
+| 7 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | [JS](./js/Ice%20Cream%20Parlor/IceCreamParlor.js) | Easy |
+| 8 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [JS](./js/Number%20Line%20Jumps/NumberLineJumps.js) | Easy |
 |  |  |  |  |
