@@ -24,4 +24,8 @@
 | 20 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [JS](./JS/simplify-path/simplify-path.js) | Medium |
 | 21 | [4Sum](https://leetcode.com/problems/4sum/description/) | [JS](./JS/4Sum/fourSum.js) | Medium |
 | 22 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [JS](./JS/swap-nodes-in-pairs/swap-nodes-in-pairs.js) | Medium |
+| 23 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [JS](./JS/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js) | Easy |
+| 24 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [JS](./JS/remove-element/remove-element.js) | Easy |
+| 25 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [JS](./JS/search-in-rotated-sorted-array/search-in-rotated-sorted-array.js) | Medium |
+| 26 | [Word Break](https://leetcode.com/problems/word-break/description/) | [JS](./JS/word-break/word-break.js) | Medium |
 |  |  |  |  |
