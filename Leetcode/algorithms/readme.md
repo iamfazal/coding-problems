@@ -28,4 +28,5 @@
 | 24 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [JS](./JS/remove-element/remove-element.js) | Easy |
 | 25 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [JS](./JS/search-in-rotated-sorted-array/search-in-rotated-sorted-array.js) | Medium |
 | 26 | [Word Break](https://leetcode.com/problems/word-break/description/) | [JS](./JS/word-break/word-break.js) | Medium |
+| 27 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [JS](./JS/linked-list-cycle/linked-list-cycle.js) | Easy |
 |  |  |  |  |
