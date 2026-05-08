@@ -30,4 +30,6 @@
 | 26 | [Word Break](https://leetcode.com/problems/word-break/description/) | [JS](./JS/word-break/word-break.js) | Medium |
 | 27 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [JS](./JS/linked-list-cycle/linked-list-cycle.js) | Easy |
 | 28 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [JS](./JS/linked-list-cycle-ii/linked-list-cycle-ii.js) | Medium |
+| 29 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [JS](./JS/find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.js) | Medium |
+| 30 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JS](./JS/search-insert-position/search-insert-position.js) | Easy |
 |  |  |  |  |
