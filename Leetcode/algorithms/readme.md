@@ -34,3 +34,4 @@
 | 30 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JS](./JS/search-insert-position/search-insert-position.js) | Easy |
 | 31 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [JS](./JS/combination-sum/combination-sum.js) | Medium |
 | 32 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [JS](./JS/combination-sum-ii/combination-sum-ii.js) | Medium |
+| 33 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [JS](./JS/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.js) | Easy |
