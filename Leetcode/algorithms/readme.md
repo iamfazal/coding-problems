@@ -36,3 +36,4 @@
 | 32 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [JS](./JS/combination-sum-ii/combination-sum-ii.js) | Medium |
 | 33 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [JS](./JS/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.js) | Easy |
 | 34 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [JS](./JS/permutations-ii/permutations-ii.js) | Medium |
+| 35 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [JS](./JS/rotate-image/rotate-image.js) | Medium |
